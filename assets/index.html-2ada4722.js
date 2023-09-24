@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,d as n}from"./app-03679ccd.js";const o={},r=e("h1",{id:"温故知新",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#温故知新","aria-hidden":"true"},"#"),n(" 温故知新")],-1),s=[r];function d(_,i){return a(),c("div",null,s)}const l=t(o,[["render",d],["__file","index.html.vue"]]);export{l as default};

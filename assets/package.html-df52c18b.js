@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,d as o}from"./app-03679ccd.js";const r={},s=e("h1",{id:"_12-包",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_12-包","aria-hidden":"true"},"#"),o(" 12. 包")],-1),_=[s];function n(d,i){return t(),c("div",null,_)}const l=a(r,[["render",n],["__file","package.html.vue"]]);export{l as default};

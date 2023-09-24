@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,d as c}from"./app-03679ccd.js";const o={},r=e("h1",{id:"每天一个-npm-包",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#每天一个-npm-包","aria-hidden":"true"},"#"),c(" 每天一个 npm 包")],-1),s=[r];function d(_,i){return a(),n("div",null,s)}const l=t(o,[["render",d],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as r,c as s,a as e,d as t}from"./app-03679ccd.js";const a={},c=e("h1",{id:"promise-应用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#promise-应用","aria-hidden":"true"},"#"),t(" Promise 应用")],-1),i=[c];function n(_,d){return r(),s("div",null,i)}const h=o(a,[["render",n],["__file","promise.html.vue"]]);export{h as default};

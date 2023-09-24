@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,d as c}from"./app-03679ccd.js";const s={},n=e("h1",{id:"⏫-文件上传",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#⏫-文件上传","aria-hidden":"true"},"#"),c(" ⏫ 文件上传")],-1),l=e("ul",null,[e("li",null,"调试接口")],-1),r=[n,l];function _(d,i){return a(),o("div",null,r)}const u=t(s,[["render",_],["__file","upload.html.vue"]]);export{u as default};

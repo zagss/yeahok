@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d8cd703e","path":"/js/promise/","title":"Promise","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"并发任务控制","slug":"并发任务控制","link":"#并发任务控制","children":[]},{"level":2,"title":"消除异步的传染性","slug":"消除异步的传染性","link":"#消除异步的传染性","children":[]}],"git":{},"filePathRelative":"js/promise/index.md"}');export{e as data};

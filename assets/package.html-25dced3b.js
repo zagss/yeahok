@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7226faf6","path":"/learn/go/package.html","title":"12. 包","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"learn/go/package.md"}');export{a as data};

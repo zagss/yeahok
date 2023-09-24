@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-31b6d0d8","path":"/interview/collection.html","title":"🤔️ 奇怪的知识","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"console.log","slug":"console-log","link":"#console-log","children":[]}],"git":{},"filePathRelative":"interview/collection.md"}');export{e as data};
